@@ -4,7 +4,7 @@
 
 ## 📊 Power BI Dashboard
 
-
+![Customer Churn Dashboard](images/Dashboard.png)
 
 ### Project Overview
 
