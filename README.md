@@ -2,6 +2,10 @@
 
 ## Identifying High-Risk Customers and Churn Drivers
 
+## 📊 Power BI Dashboard
+
+
+
 ### Project Overview
 
 This project analyzes customer churn by combining customer, subscription, and support data. The goal is to identify churn patterns, high-risk customer segments, and factors associated with customer churn.
